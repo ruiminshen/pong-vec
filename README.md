@@ -1,0 +1,1 @@
+This is a vector state version pong game which is based on the codes from <https://github.com/xinghai-sun/deep-rl/blob/master/envs/pong_env.py> (git revision number: `a755becfc468bc9500f92050a33712708e940d0e`).
